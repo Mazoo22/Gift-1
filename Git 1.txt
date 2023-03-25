@@ -1,1 +1,5 @@
 vless://89f2c05e-f4c3-41f7-e73d-b66b2e0414d5@mazzo22.ddns.net:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gold1.sombreromasterb.buzz&fp=chrome&type=ws&sni=gold1.sombreromasterb.buzz#Mazoo+s2-So
+
+
+
+vless://606028c0-8f35-42b4-9d4e-95fa7b201985@45.85.119.88:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=gold1.sombreromasterb.buzz&fp=chrome&type=ws&sni=gold1.sombreromasterb.buzz#Mazoo+s2-TAHA
